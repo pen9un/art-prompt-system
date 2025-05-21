@@ -15,7 +15,7 @@
 
 ## 🚀 使用说明
 
-**微信交流群**（进群获取系统地址，系统使用完全免费，进群可体验高智能机器人，一键AI绘画。如群二维码失效请点 **Star** 耐心等候或提 [Issues](https://github.com/pen9un/art-prompt-system/issues) ，会在第一时间更新二维码。进群后先看群公告和机器人使用指令，如有需要加群管理员，需备注 ***画境师** 并说明加好友原因）：
+**微信交流群**（进群获取系统地址，系统使用完全免费，进群可体验高智能机器人，一键AI绘画。如二维码失效请点 **Star** 耐心等候或提 [Issues](https://github.com/pen9un/art-prompt-system/issues) ，会在第一时间更新二维码。进群后先看群公告和机器人使用指令，如有需要加群管理员，需备注 **画境师** 并说明加好友原因）：
 
 <img src="./resource/image/wechat_group.png" alt="douyin" width="300px" />
 
